@@ -3,7 +3,7 @@ body {
     width: 800px;
     margin: 0 auto;
     padding: 20px;
-    border: 3px solid blue;
+    border: 3px solid pink;
 }
 h1, h2, ul, p {
 	margin: 0;
@@ -11,7 +11,7 @@ h1, h2, ul, p {
 }
 h1 {
 	padding-bottom: .25em;
-	color: blue;
+	color: pink;
     text-align: center;
 }
 h2 {
@@ -28,6 +28,10 @@ li {
 img {
     width: 50%;
     height: 50%;
+    
+}
+border {
+    color: pink;
 }
 
 
