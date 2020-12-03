@@ -69,9 +69,9 @@ header{
     border-bottom:2px solid black; 
 }
 footer{
-    background:linear-gradient(45deg, white, orange 75%, black) !important;
+   !important;
     border-top:2px solid black;
-    linear-gradient(45deg, white, orange 75%, black);
+   background-color:white;
 }
 
 .zli{
@@ -88,7 +88,8 @@ a:hover{
     color: green;
 }
 .sb1 {
-   background-color: green;
+   
+    height: auto;
     
     
 }
